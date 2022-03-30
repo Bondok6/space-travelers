@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/45231276/156411396-0894607b-88a9-4687-
 
 To get a local copy up and running follow these simple example steps.
 
-`git clone git@github.com:Leboroz/space-travelers.git `
+`git clone git@github.com:Bondok6/space-travelers.git `
 
 Then `cd space-travelers`
 
@@ -36,15 +36,15 @@ Finally `npm start`
 
 ## Authors
 
-👤 **Leonardo Albornoz**
-
-- GitHub: [@Leboroz](https://github.com/Leboroz)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leonardo-albornoz-216784198/)
-
 👤 **Kyrillos Hany**
 
 - GitHub: [@Bondok6](https://github.com/Bondok6)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
+
+👤 **Leonardo Albornoz**
+
+- GitHub: [@Leboroz](https://github.com/Leboroz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/leonardo-albornoz-216784198/)
 
 ## 🤝 Contributing
 
